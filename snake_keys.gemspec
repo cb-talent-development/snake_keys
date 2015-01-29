@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "snake_keys"
-  spec.version       = '0.0.1'
+  spec.version       = '0.0.2'
   spec.authors       = ["Colin Ewen"]
   spec.email         = ["colin@draecas.com"]
   spec.summary       = %q{Add to_snake_keys to Hash}
